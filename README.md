@@ -35,3 +35,17 @@ I enjoy transforming raw data into meaningful insights and building software tha
 - HTML
 - CSS
 - JavaScript 
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Retail Sales & Profit Performance Dashboard *(Coming Soon)*
+- Interactive Power BI dashboard for retail sales, profitability, customer behavior, and regional performance.
+- **Tech:** Power BI, DAX, Power Query, Excel
+
+---
+
+### 🎓 SkillMentor
+- Full-stack web application for skill development and learning.
+- **Tech:** React, Node.js, Express.js, MongoDB
