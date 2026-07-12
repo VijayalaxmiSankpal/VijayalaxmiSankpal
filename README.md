@@ -49,3 +49,10 @@ I enjoy transforming raw data into meaningful insights and building software tha
 ### 🎓 SkillMentor
 - Full-stack web application for skill development and learning.
 - **Tech:** React, Node.js, Express.js, MongoDB
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: *(We'll add your LinkedIn URL later)*
+- 📧 Email: vijayalaxmisankpal@gmail.com
