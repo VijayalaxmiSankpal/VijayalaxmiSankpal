@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Vijayalaxmi Sankpal 👋
 
-<!--
-**VijayalaxmiSankpal/VijayalaxmiSankpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Full Stack Developer
 
-Here are some ideas to get you started:
+I enjoy transforming raw data into meaningful insights and building software that solves real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Currently focusing on **Data Analytics**
+- 💻 Skilled in **Python, SQL, Power BI, Excel, React, Node.js**
+- 🌱 Building end-to-end analytics and full-stack projects
+- 🎯 Goal: Create impactful, business-driven solutions through data and technology.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- SQL
+- JavaScript
+- C
+
+**Data Analytics**
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
+- PostgreSQL
+
+**Web Development**
+- React
+- Node.js
+- Express.js
+- MongoDB
+- HTML
+- CSS
+- JavaScript 
