@@ -1,58 +1,124 @@
-# Hi there, I'm Vijayalaxmi Sankpal 👋
+# 👋 Hi, I'm Vijayalaxmi Sankpal
 
-### Aspiring Data Analyst | Full Stack Developer
+### 📊 Aspiring Data Analyst | 💻 Full Stack Developer
 
-I enjoy transforming raw data into meaningful insights and building software that solves real-world problems.
+I enjoy solving business problems with data and building software that creates real value. My current focus is on Data Analytics while leveraging my Full Stack development background to build complete, end-to-end solutions.
 
-- 📊 Currently focusing on **Data Analytics**
-- 💻 Skilled in **Python, SQL, Power BI, Excel, React, Node.js**
-- 🌱 Building end-to-end analytics and full-stack projects
-- 🎯 Goal: Create impactful, business-driven solutions through data and technology.
+---
+
+## 🚀 About Me
+
+* 🎓 Computer Science Engineering Graduate
+* 📊 Transitioning into Data Analytics
+* 💻 Full Stack MERN Developer
+* 📈 Passionate about Business Intelligence & Data Visualization
+* 🌱 Currently building real-world analytics projects and continuously improving my portfolio
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Python
-- SQL
-- JavaScript
-- C
+### Programming Languages
 
-**Data Analytics**
-- Power BI
-- Excel
-- Pandas
-- NumPy
-- Matplotlib
-- PostgreSQL
+* Python
+* SQL
+* JavaScript
+* C
 
-**Web Development**
-- React
-- Node.js
-- Express.js
-- MongoDB
-- HTML
-- CSS
-- JavaScript 
+### Data Analytics
+
+* Excel
+* Power BI
+* PostgreSQL
+* Pandas
+* NumPy
+* Matplotlib
+* Power Query
+* DAX
+
+### Full Stack Development
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* HTML5
+* CSS3
+* Tailwind CSS
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* Vercel
+* Render
 
 ---
 
-## 🚀 Featured Projects
+# 🌟 Featured Projects
 
-### 📊 Retail Sales & Profit Performance Dashboard *(Coming Soon)*
-- Interactive Power BI dashboard for retail sales, profitability, customer behavior, and regional performance.
-- **Tech:** Power BI, DAX, Power Query, Excel
+### 📊 Retail Sales Intelligence
+
+Interactive Power BI dashboard for retail sales analysis, profitability, customer behavior, and regional performance.
+
+**Tech Stack:** Power BI • DAX • Power Query • Excel • Python
+
+🔗 Repository:
+https://github.com/VijayalaxmiSankpal/Retail-Sales-Intelligence
 
 ---
 
-### 🎓 SkillMentor
-- Full-stack web application for skill development and learning.
-- **Tech:** React, Node.js, Express.js, MongoDB
+### 💻 SkillMentor AI
+
+AI-powered MERN platform helping students improve resumes, prepare for interviews, track coding progress, and follow personalized career roadmaps.
+
+**Tech Stack:** React • Node.js • Express • MongoDB • JWT
+
+🔗 Repository:
+https://github.com/VijayalaxmiSankpal/SkillMentor
+
+🌐 Live Demo:
+https://skill-mentor-azure.vercel.app/
 
 ---
 
-## 📫 Let's Connect
+### 🎯 FSWD Internship Assignments
 
-- 💼 LinkedIn: *(We'll add your LinkedIn URL later)*
-- 📧 Email: vijayalaxmisankpal@gmail.com
+Collection of projects completed during a 90-day MERN Full Stack internship.
+
+---
+
+## 📚 Currently Learning
+
+* Advanced SQL
+* Advanced Power BI
+* Data Storytelling
+* Python for Data Analytics
+* Statistics for Data Analysis
+* Machine Learning Fundamentals
+
+---
+
+## 🎯 2026 Goals
+
+* Build 8+ professional Data Analytics projects
+* Secure a Data Analyst role
+* Master Power BI & SQL
+* Contribute to open-source projects
+* Continuously improve problem-solving skills
+
+---
+
+## 📫 Connect With Me
+
+📧 Email:
+**[vijayalaxmisankpal@gmail.com](mailto:vijayalaxmisankpal@gmail.com)**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/vijayalaxmi-sankpal-b99b4a25b
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
